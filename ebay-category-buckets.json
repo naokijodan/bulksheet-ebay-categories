@@ -716,7 +716,12 @@
   "電動工具": "電動工具",
   "インパクト": "電動工具",
   "ドリル": "電動工具",
-  "丸ノコ": "電動工具"
+  "丸ノコ": "電動工具",
+  "DVD": "映像作品",
+  "DVD　単品": "映像作品",
+  "DVD セット": "映像作品",
+  "ブルーレイ": "映像作品",
+  "Blu-ray": "映像作品"
  },
  "buckets": {
   "時計用": [
@@ -13778,6 +13783,28 @@
    {
     "id": "260163",
     "path": "Home & Garden > Tools & Workshop Equipment > Air Tools & Air Compressors > Air Shears"
+   }
+  ],
+  "映像作品": [
+   {
+    "id": "617",
+    "path": "Movies & TV > DVDs & Blu-ray Discs"
+   },
+   {
+    "id": "41676",
+    "path": "Movies & TV > Other Formats"
+   },
+   {
+    "id": "132975",
+    "path": "Movies & TV > UMDs"
+   },
+   {
+    "id": "309",
+    "path": "Movies & TV > VHS Tapes"
+   },
+   {
+    "id": "52554",
+    "path": "Movies & TV > Video Media Accessories"
    }
   ]
  }
